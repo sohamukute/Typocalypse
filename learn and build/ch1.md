@@ -1,6 +1,6 @@
-**Linux-Only Setup Guide: Getting Started with C and Make**
+**Chapter - 1**
 
-This guide covers all the steps you need on a Linux system. We’ll keep it simple:
+This guide covers all the steps you need :
 
 * A C compiler (`gcc` or `cc`)
 * The `make` build tool

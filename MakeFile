@@ -1,0 +1,2 @@
+main: typocalypse.c
+		$(CC) typocalypse.c -o typocalypse -Wall -Wextra -pedantic -std=c99

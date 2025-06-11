@@ -1,2 +1,2 @@
 # Typocalypse
-a text editor
+a modern text editor
